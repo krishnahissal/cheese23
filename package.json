@@ -1,0 +1,12 @@
+{
+  "name": "stillroom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stillroom ambient music page",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
